@@ -12,3 +12,4 @@ If you have completed exercise 2 you must first undo the Internet Explorer proxy
 
 You have successfully exploited a Web Application using Cross Site Scripting. 
 
+This concludes lab exercise 3, continue to exercise 4.
