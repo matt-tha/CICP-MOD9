@@ -1,4 +1,4 @@
-
+####Instructions
 
 Note: You must complete exercise 3 before attempting exercise 4. 
 
@@ -22,3 +22,4 @@ Note: You must complete exercise 3 before attempting exercise 4.
 
 You have successfully exploited a browser using Cross Site Scripting. 
 
+This concludes lab exercise 3, continue to exercise 4.
