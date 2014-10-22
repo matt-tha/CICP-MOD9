@@ -9,12 +9,12 @@
 7. Launch Internet Explorer from the Windows Start Menu.
 8. Open the Internet Options screen by clicking the gear in the top right corner and selecting Internet Options. 
 9. From the Connections Tab click LAN Settings
-10. For Impact Pro to properly log our web browsing we must configure it as the proxy server. Under the Proxy Server heading check " Use a proxy server for your LAN" and specify 127.0.0.1 port 8080 as the proxy. Click OK
+10. For Impact Pro to properly log our web browsing we must configure it as the proxy server. Under the Proxy Server heading check ``Use a proxy server for your LAN`` and specify 127.0.0.1 port 8080 as the proxy. Click OK
 11. Click OK to close Internet Options. Impact Pro should now be able to log every site we visit. 
-12. To access the suite of OWASP demonstration sites type "  secure.doubleshield.org  " into the address bar and press Enter. It may take a couple of minutes to load the site. 
-13. From the Training Applications group select " Damn Vulnerable Web Application " (DVWA).
-14. Log into DVWA using username " admin " and password " admin ".
-15. DVWA contains several useful tools for practicing web exploitation. For this exercise we're going to use " SQL Injection " found in the left menu. 
+12. To access the suite of OWASP demonstration sites type ``secure.doubleshield.org`` into the address bar and press Enter. It may take a couple of minutes to load the site. 
+13. From the Training Applications group select ``Damn Vulnerable Web Application`` (DVWA).
+14. Log into DVWA using username ``admin`` and password ``admin``.
+15. DVWA contains several useful tools for practicing web exploitation. For this exercise we're going to use ``SQL Injection`` found in the left menu. 
 16. Once the SQL Injection page loads enter any string into the User ID field and click submit. Make note of the URL and switch back to Impact Pro. 
 17. If you have selected your scenario you will now see a list of the URLs you've crawled. If you have not selected your scenario, select it now. 
 18. Before proceeding with an attack we need to stop any running modules. Within Executed Modules, right click on WebApps Information Gathering and select Stop. 
