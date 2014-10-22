@@ -9,6 +9,7 @@ Note: You must complete exercise 3 before attempting exercise 4.
 5. Specify “ mail.doubleshield.org “ as the SMTP server and click Finish to execute the RPT. 
 
 **Switch to the End User PC virtual machine.**
+
 6. Login with username “ Debra Mills “ and password “ password123 “
 7. Launch Outlook Express from the Desktop. 
 8. Outlook Express should automatically download any available email, if it has not click the Send and Receive button from the toolbar. If you did not receive the email message return to Impact Pro and verify your RPT settings. 
@@ -16,6 +17,7 @@ Note: You must complete exercise 3 before attempting exercise 4.
 10. Click the hyperlink at the bottom of the email message. Internet Explorer will launch however no page will be displayed, this is normal. 
 
 **Switch to the Impact Pro client virtual machine.**
+
 11. Expand the XSS Agent to reveal the exploited browser.  Quick Information will show the browsers details.  
 
 You have successfully exploited a browser using Cross Site Scripting. 
