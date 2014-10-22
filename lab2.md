@@ -1,3 +1,5 @@
+####Instructions
+
 1. Switch to the Web view by clicking the web tab located in the top center of the screen. 
 2. Launch RPT number 1, WebApps Information Gathering.
 3. Provide a scenario name of your choosing and click Next. 
