@@ -22,6 +22,7 @@
 22. De-select the remaining risks types and click next. We do this because we're only interested in testing Injection based exploits. 
 23. Set “depth of SQL Injection tests to be applied to web pages’ input” to Full and click Finish. 
 24. Once the RPT has finished there will be two SQL Agents deployed. If you do not see the SQL Agents launch WebApps Attack and Penetration again and verify you’ve selected the correct settings. 
+
 You have successfully exploited a web application via SQL Injection. 
 
-This concludes exercise 2, continue to exercise 3. 
+This concludes lab exercise 2, continue to exercise 3. 
